@@ -1,0 +1,25 @@
+{
+  "name": "bookshelf-issue-706",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "babel-node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/bookshelf-issue-706.git"
+  },
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/bookshelf-issue-706/issues"
+  },
+  "homepage": "https://github.com/bendrucker/bookshelf-issue-706#readme",
+  "dependencies": {
+    "babel": "~5.1.11",
+    "blue-tape": "~0.1.8",
+    "bookshelf": "~0.7.9",
+    "knex": "~0.7.6",
+    "sqlite3": "~3.0.5"
+  }
+}
