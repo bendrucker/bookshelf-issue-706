@@ -16,10 +16,10 @@
   },
   "homepage": "https://github.com/bendrucker/bookshelf-issue-706#readme",
   "dependencies": {
-    "babel": "~5.1.11",
-    "blue-tape": "~0.1.8",
-    "bookshelf": "~0.7.9",
-    "knex": "~0.7.6",
-    "sqlite3": "~3.0.5"
+    "babel": "~6.23.0",
+    "blue-tape": "~1.0.0",
+    "bookshelf": "~0.13.3",
+    "knex": "~0.15.2",
+    "sqlite3": "~4.0.4"
   }
 }
